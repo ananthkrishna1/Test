@@ -1,1 +1,2 @@
 I'm struggling to push the file into the git
+ finally commit the file into repo.
